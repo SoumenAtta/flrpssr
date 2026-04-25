@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2170" height="1438" viewBox="0 0 2170 1438" role="img" aria-labelledby="title desc">
+<title id="title">Route schedule for flrp-ssr_instance_50_9</title>
+<desc id="desc">Non-geographic route schedule with route totals and customer service times.</desc>
+<style>
+text{font-family:Arial,Helvetica,sans-serif;fill:#111827}
+.title{font-size:24px;font-weight:700}
+.meta{font-size:13px;fill:#374151}
+.caption{font-size:12px;fill:#374151}
+</style>
+<rect x="0" y="0" width="100%" height="100%" fill="#ffffff"/>
+<text class="title" x="28" y="34">FLRP-SSR route schedule: flrp-ssr_instance_50_9</text>
+<text class="meta" x="28" y="58">cost = 10557.194; No. of customers = 50; No. of routes= 10</text>
+<defs>
+<marker id="arrow-0" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+<path d="M 0 0 L 10 5 L 0 10 z" fill="#174ea6"/>
+</marker>
+<marker id="arrow-1" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+<path d="M 0 0 L 10 5 L 0 10 z" fill="#c65f00"/>
+</marker>
+<marker id="arrow-2" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+<path d="M 0 0 L 10 5 L 0 10 z" fill="#0b7d25"/>
+</marker>
+<marker id="arrow-3" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+<path d="M 0 0 L 10 5 L 0 10 z" fill="#7a3db8"/>
+</marker>
+<marker id="arrow-4" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+<path d="M 0 0 L 10 5 L 0 10 z" fill="#9a3412"/>
+</marker>
+<marker id="arrow-5" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+<path d="M 0 0 L 10 5 L 0 10 z" fill="#006d77"/>
+</marker>
+<marker id="arrow-6" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+<path d="M 0 0 L 10 5 L 0 10 z" fill="#9d174d"/>
+</marker>
+<marker id="arrow-7" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+<path d="M 0 0 L 10 5 L 0 10 z" fill="#4d7c0f"/>
+</marker>
+<marker id="arrow-8" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+<path d="M 0 0 L 10 5 L 0 10 z" fill="#334155"/>
+</marker>
+<marker id="arrow-9" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+<path d="M 0 0 L 10 5 L 0 10 z" fill="#0e7490"/>
+</marker>
+</defs>
+<rect x="28.0" y="106.0" width="390.0" height="98.0" rx="5" ry="5" fill="#edf4ff" stroke="#174ea6" stroke-width="1.6"/>
+<text x="39.0" y="126.0" font-size="12" text-anchor="start"><tspan x="39.0" font-weight="700">Vehicle 0, base 1008</tspan><tspan x="39.0" dy="16.0">1008 -&gt; 5 -&gt; 35 -&gt; 9 -&gt; 30 -&gt; 1 -&gt; 17 -&gt; 26 -&gt;</tspan><tspan x="39.0" dy="16.0">37 -&gt; 29 -&gt; 40 -&gt; 1008</tspan><tspan x="39.0" dy="16.0">travel 90.2; service 170.0; wait 208.8</tspan><tspan x="39.0" dy="16.0">depart 0.0; finish 469.1; elapsed 469.1</tspan></text>
+<line x1="418.0" y1="155.0" x2="445.0" y2="155.0" stroke="#174ea6" stroke-width="1.7" marker-end="url(#arrow-0)"/>
+<rect x="450.0" y="112.0" width="126.0" height="86.0" rx="5" ry="5" fill="#edf4ff" stroke="#174ea6" stroke-width="1.6"/>
+<text x="513.0" y="129.0" font-size="12" text-anchor="middle"><tspan x="513.0" font-weight="700">C5</tspan><tspan x="513.0" dy="15.0">TW [119, 239]</tspan><tspan x="513.0" dy="15.0">start 119.0</tspan><tspan x="513.0" dy="15.0">end 136.0</tspan><tspan x="513.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="576.0" y1="155.0" x2="597.0" y2="155.0" stroke="#174ea6" stroke-width="1.7" marker-end="url(#arrow-0)"/>
+<rect x="602.0" y="112.0" width="126.0" height="86.0" rx="5" ry="5" fill="#edf4ff" stroke="#174ea6" stroke-width="1.6"/>
+<text x="665.0" y="129.0" font-size="12" text-anchor="middle"><tspan x="665.0" font-weight="700">C35</tspan><tspan x="665.0" dy="15.0">TW [50, 170]</tspan><tspan x="665.0" dy="15.0">start 148.8</tspan><tspan x="665.0" dy="15.0">end 165.8</tspan><tspan x="665.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="728.0" y1="155.0" x2="749.0" y2="155.0" stroke="#174ea6" stroke-width="1.7" marker-end="url(#arrow-0)"/>
+<rect x="754.0" y="112.0" width="126.0" height="86.0" rx="5" ry="5" fill="#edf4ff" stroke="#174ea6" stroke-width="1.6"/>
+<text x="817.0" y="129.0" font-size="12" text-anchor="middle"><tspan x="817.0" font-weight="700">C9</tspan><tspan x="817.0" dy="15.0">TW [73, 193]</tspan><tspan x="817.0" dy="15.0">start 169.9</tspan><tspan x="817.0" dy="15.0">end 186.9</tspan><tspan x="817.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="880.0" y1="155.0" x2="901.0" y2="155.0" stroke="#174ea6" stroke-width="1.7" marker-end="url(#arrow-0)"/>
+<rect x="906.0" y="112.0" width="126.0" height="86.0" rx="5" ry="5" fill="#edf4ff" stroke="#174ea6" stroke-width="1.6"/>
+<text x="969.0" y="129.0" font-size="12" text-anchor="middle"><tspan x="969.0" font-weight="700">C30</tspan><tspan x="969.0" dy="15.0">TW [217, 337]</tspan><tspan x="969.0" dy="15.0">start 217.0</tspan><tspan x="969.0" dy="15.0">end 234.0</tspan><tspan x="969.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="1032.0" y1="155.0" x2="1053.0" y2="155.0" stroke="#174ea6" stroke-width="1.7" marker-end="url(#arrow-0)"/>
+<rect x="1058.0" y="112.0" width="126.0" height="86.0" rx="5" ry="5" fill="#edf4ff" stroke="#174ea6" stroke-width="1.6"/>
+<text x="1121.0" y="129.0" font-size="12" text-anchor="middle"><tspan x="1121.0" font-weight="700">C1</tspan><tspan x="1121.0" dy="15.0">TW [229, 349]</tspan><tspan x="1121.0" dy="15.0">start 236.8</tspan><tspan x="1121.0" dy="15.0">end 253.8</tspan><tspan x="1121.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="1184.0" y1="155.0" x2="1205.0" y2="155.0" stroke="#174ea6" stroke-width="1.7" marker-end="url(#arrow-0)"/>
+<rect x="1210.0" y="112.0" width="126.0" height="86.0" rx="5" ry="5" fill="#edf4ff" stroke="#174ea6" stroke-width="1.6"/>
+<text x="1273.0" y="129.0" font-size="12" text-anchor="middle"><tspan x="1273.0" font-weight="700">C17</tspan><tspan x="1273.0" dy="15.0">TW [251, 371]</tspan><tspan x="1273.0" dy="15.0">start 258.3</tspan><tspan x="1273.0" dy="15.0">end 275.3</tspan><tspan x="1273.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="1336.0" y1="155.0" x2="1357.0" y2="155.0" stroke="#174ea6" stroke-width="1.7" marker-end="url(#arrow-0)"/>
+<rect x="1362.0" y="112.0" width="126.0" height="86.0" rx="5" ry="5" fill="#edf4ff" stroke="#174ea6" stroke-width="1.6"/>
+<text x="1425.0" y="129.0" font-size="12" text-anchor="middle"><tspan x="1425.0" font-weight="700">C26</tspan><tspan x="1425.0" dy="15.0">TW [294, 414]</tspan><tspan x="1425.0" dy="15.0">start 294.0</tspan><tspan x="1425.0" dy="15.0">end 311.0</tspan><tspan x="1425.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="1488.0" y1="155.0" x2="1509.0" y2="155.0" stroke="#174ea6" stroke-width="1.7" marker-end="url(#arrow-0)"/>
+<rect x="1514.0" y="112.0" width="126.0" height="86.0" rx="5" ry="5" fill="#edf4ff" stroke="#174ea6" stroke-width="1.6"/>
+<text x="1577.0" y="129.0" font-size="12" text-anchor="middle"><tspan x="1577.0" font-weight="700">C37</tspan><tspan x="1577.0" dy="15.0">TW [323, 443]</tspan><tspan x="1577.0" dy="15.0">start 323.0</tspan><tspan x="1577.0" dy="15.0">end 340.0</tspan><tspan x="1577.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="1640.0" y1="155.0" x2="1661.0" y2="155.0" stroke="#174ea6" stroke-width="1.7" marker-end="url(#arrow-0)"/>
+<rect x="1666.0" y="112.0" width="126.0" height="86.0" rx="5" ry="5" fill="#edf4ff" stroke="#174ea6" stroke-width="1.6"/>
+<text x="1729.0" y="129.0" font-size="12" text-anchor="middle"><tspan x="1729.0" font-weight="700">C29</tspan><tspan x="1729.0" dy="15.0">TW [393, 513]</tspan><tspan x="1729.0" dy="15.0">start 393.0</tspan><tspan x="1729.0" dy="15.0">end 410.0</tspan><tspan x="1729.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="1792.0" y1="155.0" x2="1813.0" y2="155.0" stroke="#174ea6" stroke-width="1.7" marker-end="url(#arrow-0)"/>
+<rect x="1818.0" y="112.0" width="126.0" height="86.0" rx="5" ry="5" fill="#edf4ff" stroke="#174ea6" stroke-width="1.6"/>
+<text x="1881.0" y="129.0" font-size="12" text-anchor="middle"><tspan x="1881.0" font-weight="700">C40</tspan><tspan x="1881.0" dy="15.0">TW [431, 551]</tspan><tspan x="1881.0" dy="15.0">start 431.0</tspan><tspan x="1881.0" dy="15.0">end 448.0</tspan><tspan x="1881.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="1944.0" y1="155.0" x2="1965.0" y2="155.0" stroke="#174ea6" stroke-width="1.7" marker-end="url(#arrow-0)"/>
+<rect x="1970.0" y="123.0" width="100.0" height="64.0" rx="0" ry="0" fill="#edf4ff" stroke="#174ea6" stroke-width="1.6"/>
+<text x="2020.0" y="142.0" font-size="12" text-anchor="middle"><tspan x="2020.0" font-weight="700">1008</tspan><tspan x="2020.0" dy="15.0">return</tspan><tspan x="2020.0" dy="15.0">469.1</tspan></text>
+<rect x="28.0" y="236.0" width="390.0" height="86.0" rx="5" ry="5" fill="#fff3e5" stroke="#c65f00" stroke-width="1.6"/>
+<text x="39.0" y="256.0" font-size="12" text-anchor="start"><tspan x="39.0" font-weight="700">Vehicle 1, base 1011</tspan><tspan x="39.0" dy="16.0">1011 -&gt; 50 -&gt; 22 -&gt; 19 -&gt; 45 -&gt; 24 -&gt; 1011</tspan><tspan x="39.0" dy="16.0">travel 67.4; service 85.0; wait 317.0</tspan><tspan x="39.0" dy="16.0">depart 0.0; finish 469.4; elapsed 469.4</tspan></text>
+<line x1="418.0" y1="279.0" x2="445.0" y2="279.0" stroke="#c65f00" stroke-width="1.7" marker-end="url(#arrow-1)"/>
+<rect x="450.0" y="236.0" width="126.0" height="86.0" rx="5" ry="5" fill="#fff3e5" stroke="#c65f00" stroke-width="1.6"/>
+<text x="513.0" y="253.0" font-size="12" text-anchor="middle"><tspan x="513.0" font-weight="700">C50</tspan><tspan x="513.0" dy="15.0">TW [73, 193]</tspan><tspan x="513.0" dy="15.0">start 73.0</tspan><tspan x="513.0" dy="15.0">end 90.0</tspan><tspan x="513.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="576.0" y1="279.0" x2="597.0" y2="279.0" stroke="#c65f00" stroke-width="1.7" marker-end="url(#arrow-1)"/>
+<rect x="602.0" y="236.0" width="126.0" height="86.0" rx="5" ry="5" fill="#fff3e5" stroke="#c65f00" stroke-width="1.6"/>
+<text x="665.0" y="253.0" font-size="12" text-anchor="middle"><tspan x="665.0" font-weight="700">C22</tspan><tspan x="665.0" dy="15.0">TW [46, 166]</tspan><tspan x="665.0" dy="15.0">start 98.9</tspan><tspan x="665.0" dy="15.0">end 115.9</tspan><tspan x="665.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="728.0" y1="279.0" x2="749.0" y2="279.0" stroke="#c65f00" stroke-width="1.7" marker-end="url(#arrow-1)"/>
+<rect x="754.0" y="236.0" width="126.0" height="86.0" rx="5" ry="5" fill="#fff3e5" stroke="#c65f00" stroke-width="1.6"/>
+<text x="817.0" y="253.0" font-size="12" text-anchor="middle"><tspan x="817.0" font-weight="700">C19</tspan><tspan x="817.0" dy="15.0">TW [239, 359]</tspan><tspan x="817.0" dy="15.0">start 239.0</tspan><tspan x="817.0" dy="15.0">end 256.0</tspan><tspan x="817.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="880.0" y1="279.0" x2="901.0" y2="279.0" stroke="#c65f00" stroke-width="1.7" marker-end="url(#arrow-1)"/>
+<rect x="906.0" y="236.0" width="126.0" height="86.0" rx="5" ry="5" fill="#fff3e5" stroke="#c65f00" stroke-width="1.6"/>
+<text x="969.0" y="253.0" font-size="12" text-anchor="middle"><tspan x="969.0" font-weight="700">C45</tspan><tspan x="969.0" dy="15.0">TW [404, 524]</tspan><tspan x="969.0" dy="15.0">start 404.0</tspan><tspan x="969.0" dy="15.0">end 421.0</tspan><tspan x="969.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="1032.0" y1="279.0" x2="1053.0" y2="279.0" stroke="#c65f00" stroke-width="1.7" marker-end="url(#arrow-1)"/>
+<rect x="1058.0" y="236.0" width="126.0" height="86.0" rx="5" ry="5" fill="#fff3e5" stroke="#c65f00" stroke-width="1.6"/>
+<text x="1121.0" y="253.0" font-size="12" text-anchor="middle"><tspan x="1121.0" font-weight="700">C24</tspan><tspan x="1121.0" dy="15.0">TW [412, 532]</tspan><tspan x="1121.0" dy="15.0">start 440.4</tspan><tspan x="1121.0" dy="15.0">end 457.4</tspan><tspan x="1121.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="1184.0" y1="279.0" x2="1205.0" y2="279.0" stroke="#c65f00" stroke-width="1.7" marker-end="url(#arrow-1)"/>
+<rect x="1210.0" y="247.0" width="100.0" height="64.0" rx="0" ry="0" fill="#fff3e5" stroke="#c65f00" stroke-width="1.6"/>
+<text x="1260.0" y="266.0" font-size="12" text-anchor="middle"><tspan x="1260.0" font-weight="700">1011</tspan><tspan x="1260.0" dy="15.0">return</tspan><tspan x="1260.0" dy="15.0">469.4</tspan></text>
+<rect x="28.0" y="354.0" width="390.0" height="86.0" rx="5" ry="5" fill="#ecf9ee" stroke="#0b7d25" stroke-width="1.6"/>
+<text x="39.0" y="374.0" font-size="12" text-anchor="start"><tspan x="39.0" font-weight="700">Vehicle 2, base 1018</tspan><tspan x="39.0" dy="16.0">1018 -&gt; 42 -&gt; 16 -&gt; 46 -&gt; 1018</tspan><tspan x="39.0" dy="16.0">travel 50.9; service 51.0; wait 176.7</tspan><tspan x="39.0" dy="16.0">depart 0.0; finish 278.6; elapsed 278.6</tspan></text>
+<line x1="418.0" y1="397.0" x2="445.0" y2="397.0" stroke="#0b7d25" stroke-width="1.7" marker-end="url(#arrow-2)"/>
+<rect x="450.0" y="354.0" width="126.0" height="86.0" rx="5" ry="5" fill="#ecf9ee" stroke="#0b7d25" stroke-width="1.6"/>
+<text x="513.0" y="371.0" font-size="12" text-anchor="middle"><tspan x="513.0" font-weight="700">C42</tspan><tspan x="513.0" dy="15.0">TW [2, 122]</tspan><tspan x="513.0" dy="15.0">start 11.9</tspan><tspan x="513.0" dy="15.0">end 28.9</tspan><tspan x="513.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="576.0" y1="397.0" x2="597.0" y2="397.0" stroke="#0b7d25" stroke-width="1.7" marker-end="url(#arrow-2)"/>
+<rect x="602.0" y="354.0" width="126.0" height="86.0" rx="5" ry="5" fill="#ecf9ee" stroke="#0b7d25" stroke-width="1.6"/>
+<text x="665.0" y="371.0" font-size="12" text-anchor="middle"><tspan x="665.0" font-weight="700">C16</tspan><tspan x="665.0" dy="15.0">TW [98, 218]</tspan><tspan x="665.0" dy="15.0">start 98.0</tspan><tspan x="665.0" dy="15.0">end 115.0</tspan><tspan x="665.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="728.0" y1="397.0" x2="749.0" y2="397.0" stroke="#0b7d25" stroke-width="1.7" marker-end="url(#arrow-2)"/>
+<rect x="754.0" y="354.0" width="126.0" height="86.0" rx="5" ry="5" fill="#ecf9ee" stroke="#0b7d25" stroke-width="1.6"/>
+<text x="817.0" y="371.0" font-size="12" text-anchor="middle"><tspan x="817.0" font-weight="700">C46</tspan><tspan x="817.0" dy="15.0">TW [251, 371]</tspan><tspan x="817.0" dy="15.0">start 251.0</tspan><tspan x="817.0" dy="15.0">end 268.0</tspan><tspan x="817.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="880.0" y1="397.0" x2="901.0" y2="397.0" stroke="#0b7d25" stroke-width="1.7" marker-end="url(#arrow-2)"/>
+<rect x="906.0" y="365.0" width="100.0" height="64.0" rx="0" ry="0" fill="#ecf9ee" stroke="#0b7d25" stroke-width="1.6"/>
+<text x="956.0" y="384.0" font-size="12" text-anchor="middle"><tspan x="956.0" font-weight="700">1018</tspan><tspan x="956.0" dy="15.0">return</tspan><tspan x="956.0" dy="15.0">278.6</tspan></text>
+<rect x="28.0" y="472.0" width="390.0" height="98.0" rx="5" ry="5" fill="#f5edff" stroke="#7a3db8" stroke-width="1.6"/>
+<text x="39.0" y="492.0" font-size="12" text-anchor="start"><tspan x="39.0" font-weight="700">Vehicle 3, base 1016</tspan><tspan x="39.0" dy="16.0">1016 -&gt; 11 -&gt; 36 -&gt; 4 -&gt; 6 -&gt; 27 -&gt; 8 -&gt; 12 -&gt;</tspan><tspan x="39.0" dy="16.0">18 -&gt; 21 -&gt; 15 -&gt; 1016</tspan><tspan x="39.0" dy="16.0">travel 155.5; service 170.0; wait 142.0</tspan><tspan x="39.0" dy="16.0">depart 0.0; finish 467.5; elapsed 467.5</tspan></text>
+<line x1="418.0" y1="521.0" x2="445.0" y2="521.0" stroke="#7a3db8" stroke-width="1.7" marker-end="url(#arrow-3)"/>
+<rect x="450.0" y="478.0" width="126.0" height="86.0" rx="5" ry="5" fill="#f5edff" stroke="#7a3db8" stroke-width="1.6"/>
+<text x="513.0" y="495.0" font-size="12" text-anchor="middle"><tspan x="513.0" font-weight="700">C11</tspan><tspan x="513.0" dy="15.0">TW [86, 206]</tspan><tspan x="513.0" dy="15.0">start 86.0</tspan><tspan x="513.0" dy="15.0">end 103.0</tspan><tspan x="513.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="576.0" y1="521.0" x2="597.0" y2="521.0" stroke="#7a3db8" stroke-width="1.7" marker-end="url(#arrow-3)"/>
+<rect x="602.0" y="478.0" width="126.0" height="86.0" rx="5" ry="5" fill="#f5edff" stroke="#7a3db8" stroke-width="1.6"/>
+<text x="665.0" y="495.0" font-size="12" text-anchor="middle"><tspan x="665.0" font-weight="700">C36</tspan><tspan x="665.0" dy="15.0">TW [26, 146]</tspan><tspan x="665.0" dy="15.0">start 113.8</tspan><tspan x="665.0" dy="15.0">end 130.8</tspan><tspan x="665.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="728.0" y1="521.0" x2="749.0" y2="521.0" stroke="#7a3db8" stroke-width="1.7" marker-end="url(#arrow-3)"/>
+<rect x="754.0" y="478.0" width="126.0" height="86.0" rx="5" ry="5" fill="#f5edff" stroke="#7a3db8" stroke-width="1.6"/>
+<text x="817.0" y="495.0" font-size="12" text-anchor="middle"><tspan x="817.0" font-weight="700">C4</tspan><tspan x="817.0" dy="15.0">TW [55, 175]</tspan><tspan x="817.0" dy="15.0">start 161.7</tspan><tspan x="817.0" dy="15.0">end 178.7</tspan><tspan x="817.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="880.0" y1="521.0" x2="901.0" y2="521.0" stroke="#7a3db8" stroke-width="1.7" marker-end="url(#arrow-3)"/>
+<rect x="906.0" y="478.0" width="126.0" height="86.0" rx="5" ry="5" fill="#f5edff" stroke="#7a3db8" stroke-width="1.6"/>
+<text x="969.0" y="495.0" font-size="12" text-anchor="middle"><tspan x="969.0" font-weight="700">C6</tspan><tspan x="969.0" dy="15.0">TW [177, 297]</tspan><tspan x="969.0" dy="15.0">start 196.4</tspan><tspan x="969.0" dy="15.0">end 213.4</tspan><tspan x="969.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="1032.0" y1="521.0" x2="1053.0" y2="521.0" stroke="#7a3db8" stroke-width="1.7" marker-end="url(#arrow-3)"/>
+<rect x="1058.0" y="478.0" width="126.0" height="86.0" rx="5" ry="5" fill="#f5edff" stroke="#7a3db8" stroke-width="1.6"/>
+<text x="1121.0" y="495.0" font-size="12" text-anchor="middle"><tspan x="1121.0" font-weight="700">C27</tspan><tspan x="1121.0" dy="15.0">TW [102, 222]</tspan><tspan x="1121.0" dy="15.0">start 221.6</tspan><tspan x="1121.0" dy="15.0">end 238.6</tspan><tspan x="1121.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="1184.0" y1="521.0" x2="1205.0" y2="521.0" stroke="#7a3db8" stroke-width="1.7" marker-end="url(#arrow-3)"/>
+<rect x="1210.0" y="478.0" width="126.0" height="86.0" rx="5" ry="5" fill="#f5edff" stroke="#7a3db8" stroke-width="1.6"/>
+<text x="1273.0" y="495.0" font-size="12" text-anchor="middle"><tspan x="1273.0" font-weight="700">C8</tspan><tspan x="1273.0" dy="15.0">TW [216, 336]</tspan><tspan x="1273.0" dy="15.0">start 247.8</tspan><tspan x="1273.0" dy="15.0">end 264.8</tspan><tspan x="1273.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="1336.0" y1="521.0" x2="1357.0" y2="521.0" stroke="#7a3db8" stroke-width="1.7" marker-end="url(#arrow-3)"/>
+<rect x="1362.0" y="478.0" width="126.0" height="86.0" rx="5" ry="5" fill="#f5edff" stroke="#7a3db8" stroke-width="1.6"/>
+<text x="1425.0" y="495.0" font-size="12" text-anchor="middle"><tspan x="1425.0" font-weight="700">C12</tspan><tspan x="1425.0" dy="15.0">TW [166, 286]</tspan><tspan x="1425.0" dy="15.0">start 275.6</tspan><tspan x="1425.0" dy="15.0">end 292.6</tspan><tspan x="1425.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="1488.0" y1="521.0" x2="1509.0" y2="521.0" stroke="#7a3db8" stroke-width="1.7" marker-end="url(#arrow-3)"/>
+<rect x="1514.0" y="478.0" width="126.0" height="86.0" rx="5" ry="5" fill="#f5edff" stroke="#7a3db8" stroke-width="1.6"/>
+<text x="1577.0" y="495.0" font-size="12" text-anchor="middle"><tspan x="1577.0" font-weight="700">C18</tspan><tspan x="1577.0" dy="15.0">TW [368, 488]</tspan><tspan x="1577.0" dy="15.0">start 368.0</tspan><tspan x="1577.0" dy="15.0">end 385.0</tspan><tspan x="1577.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="1640.0" y1="521.0" x2="1661.0" y2="521.0" stroke="#7a3db8" stroke-width="1.7" marker-end="url(#arrow-3)"/>
+<rect x="1666.0" y="478.0" width="126.0" height="86.0" rx="5" ry="5" fill="#f5edff" stroke="#7a3db8" stroke-width="1.6"/>
+<text x="1729.0" y="495.0" font-size="12" text-anchor="middle"><tspan x="1729.0" font-weight="700">C21</tspan><tspan x="1729.0" dy="15.0">TW [391, 511]</tspan><tspan x="1729.0" dy="15.0">start 395.6</tspan><tspan x="1729.0" dy="15.0">end 412.6</tspan><tspan x="1729.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="1792.0" y1="521.0" x2="1813.0" y2="521.0" stroke="#7a3db8" stroke-width="1.7" marker-end="url(#arrow-3)"/>
+<rect x="1818.0" y="478.0" width="126.0" height="86.0" rx="5" ry="5" fill="#f5edff" stroke="#7a3db8" stroke-width="1.6"/>
+<text x="1881.0" y="495.0" font-size="12" text-anchor="middle"><tspan x="1881.0" font-weight="700">C15</tspan><tspan x="1881.0" dy="15.0">TW [335, 455]</tspan><tspan x="1881.0" dy="15.0">start 429.4</tspan><tspan x="1881.0" dy="15.0">end 446.4</tspan><tspan x="1881.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="1944.0" y1="521.0" x2="1965.0" y2="521.0" stroke="#7a3db8" stroke-width="1.7" marker-end="url(#arrow-3)"/>
+<rect x="1970.0" y="489.0" width="100.0" height="64.0" rx="0" ry="0" fill="#f5edff" stroke="#7a3db8" stroke-width="1.6"/>
+<text x="2020.0" y="508.0" font-size="12" text-anchor="middle"><tspan x="2020.0" font-weight="700">1016</tspan><tspan x="2020.0" dy="15.0">return</tspan><tspan x="2020.0" dy="15.0">467.5</tspan></text>
+<rect x="28.0" y="602.0" width="390.0" height="86.0" rx="5" ry="5" fill="#fff1ed" stroke="#9a3412" stroke-width="1.6"/>
+<text x="39.0" y="622.0" font-size="12" text-anchor="start"><tspan x="39.0" font-weight="700">Vehicle 4, base 1017</tspan><tspan x="39.0" dy="16.0">1017 -&gt; 47 -&gt; 38 -&gt; 20 -&gt; 1017</tspan><tspan x="39.0" dy="16.0">travel 29.0; service 51.0; wait 287.8</tspan><tspan x="39.0" dy="16.0">depart 0.0; finish 367.8; elapsed 367.8</tspan></text>
+<line x1="418.0" y1="645.0" x2="445.0" y2="645.0" stroke="#9a3412" stroke-width="1.7" marker-end="url(#arrow-4)"/>
+<rect x="450.0" y="602.0" width="126.0" height="86.0" rx="5" ry="5" fill="#fff1ed" stroke="#9a3412" stroke-width="1.6"/>
+<text x="513.0" y="619.0" font-size="12" text-anchor="middle"><tspan x="513.0" font-weight="700">C47</tspan><tspan x="513.0" dy="15.0">TW [44, 164]</tspan><tspan x="513.0" dy="15.0">start 44.0</tspan><tspan x="513.0" dy="15.0">end 61.0</tspan><tspan x="513.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="576.0" y1="645.0" x2="597.0" y2="645.0" stroke="#9a3412" stroke-width="1.7" marker-end="url(#arrow-4)"/>
+<rect x="602.0" y="602.0" width="126.0" height="86.0" rx="5" ry="5" fill="#fff1ed" stroke="#9a3412" stroke-width="1.6"/>
+<text x="665.0" y="619.0" font-size="12" text-anchor="middle"><tspan x="665.0" font-weight="700">C38</tspan><tspan x="665.0" dy="15.0">TW [315, 435]</tspan><tspan x="665.0" dy="15.0">start 315.0</tspan><tspan x="665.0" dy="15.0">end 332.0</tspan><tspan x="665.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="728.0" y1="645.0" x2="749.0" y2="645.0" stroke="#9a3412" stroke-width="1.7" marker-end="url(#arrow-4)"/>
+<rect x="754.0" y="602.0" width="126.0" height="86.0" rx="5" ry="5" fill="#fff1ed" stroke="#9a3412" stroke-width="1.6"/>
+<text x="817.0" y="619.0" font-size="12" text-anchor="middle"><tspan x="817.0" font-weight="700">C20</tspan><tspan x="817.0" dy="15.0">TW [324, 444]</tspan><tspan x="817.0" dy="15.0">start 340.5</tspan><tspan x="817.0" dy="15.0">end 357.5</tspan><tspan x="817.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="880.0" y1="645.0" x2="901.0" y2="645.0" stroke="#9a3412" stroke-width="1.7" marker-end="url(#arrow-4)"/>
+<rect x="906.0" y="613.0" width="100.0" height="64.0" rx="0" ry="0" fill="#fff1ed" stroke="#9a3412" stroke-width="1.6"/>
+<text x="956.0" y="632.0" font-size="12" text-anchor="middle"><tspan x="956.0" font-weight="700">1017</tspan><tspan x="956.0" dy="15.0">return</tspan><tspan x="956.0" dy="15.0">367.8</tspan></text>
+<rect x="28.0" y="720.0" width="390.0" height="86.0" rx="5" ry="5" fill="#e7fbfd" stroke="#006d77" stroke-width="1.6"/>
+<text x="39.0" y="740.0" font-size="12" text-anchor="start"><tspan x="39.0" font-weight="700">Vehicle 5, base 1004</tspan><tspan x="39.0" dy="16.0">1004 -&gt; 25 -&gt; 7 -&gt; 14 -&gt; 1004</tspan><tspan x="39.0" dy="16.0">travel 24.8; service 51.0; wait 363.1</tspan><tspan x="39.0" dy="16.0">depart 0.0; finish 438.9; elapsed 438.9</tspan></text>
+<line x1="418.0" y1="763.0" x2="445.0" y2="763.0" stroke="#006d77" stroke-width="1.7" marker-end="url(#arrow-5)"/>
+<rect x="450.0" y="720.0" width="126.0" height="86.0" rx="5" ry="5" fill="#e7fbfd" stroke="#006d77" stroke-width="1.6"/>
+<text x="513.0" y="737.0" font-size="12" text-anchor="middle"><tspan x="513.0" font-weight="700">C25</tspan><tspan x="513.0" dy="15.0">TW [161, 281]</tspan><tspan x="513.0" dy="15.0">start 161.0</tspan><tspan x="513.0" dy="15.0">end 178.0</tspan><tspan x="513.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="576.0" y1="763.0" x2="597.0" y2="763.0" stroke="#006d77" stroke-width="1.7" marker-end="url(#arrow-5)"/>
+<rect x="602.0" y="720.0" width="126.0" height="86.0" rx="5" ry="5" fill="#e7fbfd" stroke="#006d77" stroke-width="1.6"/>
+<text x="665.0" y="737.0" font-size="12" text-anchor="middle"><tspan x="665.0" font-weight="700">C7</tspan><tspan x="665.0" dy="15.0">TW [233, 353]</tspan><tspan x="665.0" dy="15.0">start 233.0</tspan><tspan x="665.0" dy="15.0">end 250.0</tspan><tspan x="665.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="728.0" y1="763.0" x2="749.0" y2="763.0" stroke="#006d77" stroke-width="1.7" marker-end="url(#arrow-5)"/>
+<rect x="754.0" y="720.0" width="126.0" height="86.0" rx="5" ry="5" fill="#e7fbfd" stroke="#006d77" stroke-width="1.6"/>
+<text x="817.0" y="737.0" font-size="12" text-anchor="middle"><tspan x="817.0" font-weight="700">C14</tspan><tspan x="817.0" dy="15.0">TW [418, 538]</tspan><tspan x="817.0" dy="15.0">start 418.0</tspan><tspan x="817.0" dy="15.0">end 435.0</tspan><tspan x="817.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="880.0" y1="763.0" x2="901.0" y2="763.0" stroke="#006d77" stroke-width="1.7" marker-end="url(#arrow-5)"/>
+<rect x="906.0" y="731.0" width="100.0" height="64.0" rx="0" ry="0" fill="#e7fbfd" stroke="#006d77" stroke-width="1.6"/>
+<text x="956.0" y="750.0" font-size="12" text-anchor="middle"><tspan x="956.0" font-weight="700">1004</tspan><tspan x="956.0" dy="15.0">return</tspan><tspan x="956.0" dy="15.0">438.9</tspan></text>
+<rect x="28.0" y="838.0" width="390.0" height="98.0" rx="5" ry="5" fill="#fff0f6" stroke="#9d174d" stroke-width="1.6"/>
+<text x="39.0" y="858.0" font-size="12" text-anchor="start"><tspan x="39.0" font-weight="700">Vehicle 6, base 1012</tspan><tspan x="39.0" dy="16.0">1012 -&gt; 23 -&gt; 32 -&gt; 43 -&gt; 10 -&gt; 31 -&gt; 3 -&gt; 41</tspan><tspan x="39.0" dy="16.0">-&gt; 1012</tspan><tspan x="39.0" dy="16.0">travel 78.4; service 119.0; wait 246.0</tspan><tspan x="39.0" dy="16.0">depart 0.0; finish 443.5; elapsed 443.5</tspan></text>
+<line x1="418.0" y1="887.0" x2="445.0" y2="887.0" stroke="#9d174d" stroke-width="1.7" marker-end="url(#arrow-6)"/>
+<rect x="450.0" y="844.0" width="126.0" height="86.0" rx="5" ry="5" fill="#fff0f6" stroke="#9d174d" stroke-width="1.6"/>
+<text x="513.0" y="861.0" font-size="12" text-anchor="middle"><tspan x="513.0" font-weight="700">C23</tspan><tspan x="513.0" dy="15.0">TW [146, 266]</tspan><tspan x="513.0" dy="15.0">start 146.0</tspan><tspan x="513.0" dy="15.0">end 163.0</tspan><tspan x="513.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="576.0" y1="887.0" x2="597.0" y2="887.0" stroke="#9d174d" stroke-width="1.7" marker-end="url(#arrow-6)"/>
+<rect x="602.0" y="844.0" width="126.0" height="86.0" rx="5" ry="5" fill="#fff0f6" stroke="#9d174d" stroke-width="1.6"/>
+<text x="665.0" y="861.0" font-size="12" text-anchor="middle"><tspan x="665.0" font-weight="700">C32</tspan><tspan x="665.0" dy="15.0">TW [210, 330]</tspan><tspan x="665.0" dy="15.0">start 210.0</tspan><tspan x="665.0" dy="15.0">end 227.0</tspan><tspan x="665.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="728.0" y1="887.0" x2="749.0" y2="887.0" stroke="#9d174d" stroke-width="1.7" marker-end="url(#arrow-6)"/>
+<rect x="754.0" y="844.0" width="126.0" height="86.0" rx="5" ry="5" fill="#fff0f6" stroke="#9d174d" stroke-width="1.6"/>
+<text x="817.0" y="861.0" font-size="12" text-anchor="middle"><tspan x="817.0" font-weight="700">C43</tspan><tspan x="817.0" dy="15.0">TW [150, 270]</tspan><tspan x="817.0" dy="15.0">start 234.1</tspan><tspan x="817.0" dy="15.0">end 251.1</tspan><tspan x="817.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="880.0" y1="887.0" x2="901.0" y2="887.0" stroke="#9d174d" stroke-width="1.7" marker-end="url(#arrow-6)"/>
+<rect x="906.0" y="844.0" width="126.0" height="86.0" rx="5" ry="5" fill="#fff0f6" stroke="#9d174d" stroke-width="1.6"/>
+<text x="969.0" y="861.0" font-size="12" text-anchor="middle"><tspan x="969.0" font-weight="700">C10</tspan><tspan x="969.0" dy="15.0">TW [253, 373]</tspan><tspan x="969.0" dy="15.0">start 258.1</tspan><tspan x="969.0" dy="15.0">end 275.1</tspan><tspan x="969.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="1032.0" y1="887.0" x2="1053.0" y2="887.0" stroke="#9d174d" stroke-width="1.7" marker-end="url(#arrow-6)"/>
+<rect x="1058.0" y="844.0" width="126.0" height="86.0" rx="5" ry="5" fill="#fff0f6" stroke="#9d174d" stroke-width="1.6"/>
+<text x="1121.0" y="861.0" font-size="12" text-anchor="middle"><tspan x="1121.0" font-weight="700">C31</tspan><tspan x="1121.0" dy="15.0">TW [366, 486]</tspan><tspan x="1121.0" dy="15.0">start 366.0</tspan><tspan x="1121.0" dy="15.0">end 383.0</tspan><tspan x="1121.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="1184.0" y1="887.0" x2="1205.0" y2="887.0" stroke="#9d174d" stroke-width="1.7" marker-end="url(#arrow-6)"/>
+<rect x="1210.0" y="844.0" width="126.0" height="86.0" rx="5" ry="5" fill="#fff0f6" stroke="#9d174d" stroke-width="1.6"/>
+<text x="1273.0" y="861.0" font-size="12" text-anchor="middle"><tspan x="1273.0" font-weight="700">C3</tspan><tspan x="1273.0" dy="15.0">TW [268, 388]</tspan><tspan x="1273.0" dy="15.0">start 386.2</tspan><tspan x="1273.0" dy="15.0">end 403.2</tspan><tspan x="1273.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="1336.0" y1="887.0" x2="1357.0" y2="887.0" stroke="#9d174d" stroke-width="1.7" marker-end="url(#arrow-6)"/>
+<rect x="1362.0" y="844.0" width="126.0" height="86.0" rx="5" ry="5" fill="#fff0f6" stroke="#9d174d" stroke-width="1.6"/>
+<text x="1425.0" y="861.0" font-size="12" text-anchor="middle"><tspan x="1425.0" font-weight="700">C41</tspan><tspan x="1425.0" dy="15.0">TW [352, 472]</tspan><tspan x="1425.0" dy="15.0">start 413.5</tspan><tspan x="1425.0" dy="15.0">end 430.5</tspan><tspan x="1425.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="1488.0" y1="887.0" x2="1509.0" y2="887.0" stroke="#9d174d" stroke-width="1.7" marker-end="url(#arrow-6)"/>
+<rect x="1514.0" y="855.0" width="100.0" height="64.0" rx="0" ry="0" fill="#fff0f6" stroke="#9d174d" stroke-width="1.6"/>
+<text x="1564.0" y="874.0" font-size="12" text-anchor="middle"><tspan x="1564.0" font-weight="700">1012</tspan><tspan x="1564.0" dy="15.0">return</tspan><tspan x="1564.0" dy="15.0">443.5</tspan></text>
+<rect x="28.0" y="968.0" width="390.0" height="86.0" rx="5" ry="5" fill="#f3fae8" stroke="#4d7c0f" stroke-width="1.6"/>
+<text x="39.0" y="988.0" font-size="12" text-anchor="start"><tspan x="39.0" font-weight="700">Vehicle 7, base 1009</tspan><tspan x="39.0" dy="16.0">1009 -&gt; 34 -&gt; 28 -&gt; 13 -&gt; 1009</tspan><tspan x="39.0" dy="16.0">travel 31.5; service 51.0; wait 285.2</tspan><tspan x="39.0" dy="16.0">depart 0.0; finish 367.7; elapsed 367.7</tspan></text>
+<line x1="418.0" y1="1011.0" x2="445.0" y2="1011.0" stroke="#4d7c0f" stroke-width="1.7" marker-end="url(#arrow-7)"/>
+<rect x="450.0" y="968.0" width="126.0" height="86.0" rx="5" ry="5" fill="#f3fae8" stroke="#4d7c0f" stroke-width="1.6"/>
+<text x="513.0" y="985.0" font-size="12" text-anchor="middle"><tspan x="513.0" font-weight="700">C34</tspan><tspan x="513.0" dy="15.0">TW [52, 172]</tspan><tspan x="513.0" dy="15.0">start 52.0</tspan><tspan x="513.0" dy="15.0">end 69.0</tspan><tspan x="513.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="576.0" y1="1011.0" x2="597.0" y2="1011.0" stroke="#4d7c0f" stroke-width="1.7" marker-end="url(#arrow-7)"/>
+<rect x="602.0" y="968.0" width="126.0" height="86.0" rx="5" ry="5" fill="#f3fae8" stroke="#4d7c0f" stroke-width="1.6"/>
+<text x="665.0" y="985.0" font-size="12" text-anchor="middle"><tspan x="665.0" font-weight="700">C28</tspan><tspan x="665.0" dy="15.0">TW [308, 428]</tspan><tspan x="665.0" dy="15.0">start 308.0</tspan><tspan x="665.0" dy="15.0">end 325.0</tspan><tspan x="665.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="728.0" y1="1011.0" x2="749.0" y2="1011.0" stroke="#4d7c0f" stroke-width="1.7" marker-end="url(#arrow-7)"/>
+<rect x="754.0" y="968.0" width="126.0" height="86.0" rx="5" ry="5" fill="#f3fae8" stroke="#4d7c0f" stroke-width="1.6"/>
+<text x="817.0" y="985.0" font-size="12" text-anchor="middle"><tspan x="817.0" font-weight="700">C13</tspan><tspan x="817.0" dy="15.0">TW [346, 466]</tspan><tspan x="817.0" dy="15.0">start 346.0</tspan><tspan x="817.0" dy="15.0">end 363.0</tspan><tspan x="817.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="880.0" y1="1011.0" x2="901.0" y2="1011.0" stroke="#4d7c0f" stroke-width="1.7" marker-end="url(#arrow-7)"/>
+<rect x="906.0" y="979.0" width="100.0" height="64.0" rx="0" ry="0" fill="#f3fae8" stroke="#4d7c0f" stroke-width="1.6"/>
+<text x="956.0" y="998.0" font-size="12" text-anchor="middle"><tspan x="956.0" font-weight="700">1009</tspan><tspan x="956.0" dy="15.0">return</tspan><tspan x="956.0" dy="15.0">367.7</tspan></text>
+<rect x="28.0" y="1086.0" width="390.0" height="86.0" rx="5" ry="5" fill="#f1f5f9" stroke="#334155" stroke-width="1.6"/>
+<text x="39.0" y="1106.0" font-size="12" text-anchor="start"><tspan x="39.0" font-weight="700">Vehicle 8, base 1006</tspan><tspan x="39.0" dy="16.0">1006 -&gt; 2 -&gt; 33 -&gt; 48 -&gt; 1006</tspan><tspan x="39.0" dy="16.0">travel 14.3; service 51.0; wait 179.2</tspan><tspan x="39.0" dy="16.0">depart 0.0; finish 244.4; elapsed 244.4</tspan></text>
+<line x1="418.0" y1="1129.0" x2="445.0" y2="1129.0" stroke="#334155" stroke-width="1.7" marker-end="url(#arrow-8)"/>
+<rect x="450.0" y="1086.0" width="126.0" height="86.0" rx="5" ry="5" fill="#f1f5f9" stroke="#334155" stroke-width="1.6"/>
+<text x="513.0" y="1103.0" font-size="12" text-anchor="middle"><tspan x="513.0" font-weight="700">C2</tspan><tspan x="513.0" dy="15.0">TW [76, 196]</tspan><tspan x="513.0" dy="15.0">start 76.0</tspan><tspan x="513.0" dy="15.0">end 93.0</tspan><tspan x="513.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="576.0" y1="1129.0" x2="597.0" y2="1129.0" stroke="#334155" stroke-width="1.7" marker-end="url(#arrow-8)"/>
+<rect x="602.0" y="1086.0" width="126.0" height="86.0" rx="5" ry="5" fill="#f1f5f9" stroke="#334155" stroke-width="1.6"/>
+<text x="665.0" y="1103.0" font-size="12" text-anchor="middle"><tspan x="665.0" font-weight="700">C33</tspan><tspan x="665.0" dy="15.0">TW [186, 306]</tspan><tspan x="665.0" dy="15.0">start 186.0</tspan><tspan x="665.0" dy="15.0">end 203.0</tspan><tspan x="665.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="728.0" y1="1129.0" x2="749.0" y2="1129.0" stroke="#334155" stroke-width="1.7" marker-end="url(#arrow-8)"/>
+<rect x="754.0" y="1086.0" width="126.0" height="86.0" rx="5" ry="5" fill="#f1f5f9" stroke="#334155" stroke-width="1.6"/>
+<text x="817.0" y="1103.0" font-size="12" text-anchor="middle"><tspan x="817.0" font-weight="700">C48</tspan><tspan x="817.0" dy="15.0">TW [227, 347]</tspan><tspan x="817.0" dy="15.0">start 227.0</tspan><tspan x="817.0" dy="15.0">end 244.0</tspan><tspan x="817.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="880.0" y1="1129.0" x2="901.0" y2="1129.0" stroke="#334155" stroke-width="1.7" marker-end="url(#arrow-8)"/>
+<rect x="906.0" y="1097.0" width="100.0" height="64.0" rx="0" ry="0" fill="#f1f5f9" stroke="#334155" stroke-width="1.6"/>
+<text x="956.0" y="1116.0" font-size="12" text-anchor="middle"><tspan x="956.0" font-weight="700">1006</tspan><tspan x="956.0" dy="15.0">return</tspan><tspan x="956.0" dy="15.0">244.4</tspan></text>
+<rect x="28.0" y="1204.0" width="390.0" height="86.0" rx="5" ry="5" fill="#ecfeff" stroke="#0e7490" stroke-width="1.6"/>
+<text x="39.0" y="1224.0" font-size="12" text-anchor="start"><tspan x="39.0" font-weight="700">Vehicle 9, base 1002</tspan><tspan x="39.0" dy="16.0">1002 -&gt; 49 -&gt; 39 -&gt; 44 -&gt; 1002</tspan><tspan x="39.0" dy="16.0">travel 15.1; service 51.0; wait 362.6</tspan><tspan x="39.0" dy="16.0">depart 0.0; finish 428.7; elapsed 428.7</tspan></text>
+<line x1="418.0" y1="1247.0" x2="445.0" y2="1247.0" stroke="#0e7490" stroke-width="1.7" marker-end="url(#arrow-9)"/>
+<rect x="450.0" y="1204.0" width="126.0" height="86.0" rx="5" ry="5" fill="#ecfeff" stroke="#0e7490" stroke-width="1.6"/>
+<text x="513.0" y="1221.0" font-size="12" text-anchor="middle"><tspan x="513.0" font-weight="700">C49</tspan><tspan x="513.0" dy="15.0">TW [5, 125]</tspan><tspan x="513.0" dy="15.0">start 5.0</tspan><tspan x="513.0" dy="15.0">end 22.0</tspan><tspan x="513.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="576.0" y1="1247.0" x2="597.0" y2="1247.0" stroke="#0e7490" stroke-width="1.7" marker-end="url(#arrow-9)"/>
+<rect x="602.0" y="1204.0" width="126.0" height="86.0" rx="5" ry="5" fill="#ecfeff" stroke="#0e7490" stroke-width="1.6"/>
+<text x="665.0" y="1221.0" font-size="12" text-anchor="middle"><tspan x="665.0" font-weight="700">C39</tspan><tspan x="665.0" dy="15.0">TW [135, 255]</tspan><tspan x="665.0" dy="15.0">start 135.0</tspan><tspan x="665.0" dy="15.0">end 152.0</tspan><tspan x="665.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="728.0" y1="1247.0" x2="749.0" y2="1247.0" stroke="#0e7490" stroke-width="1.7" marker-end="url(#arrow-9)"/>
+<rect x="754.0" y="1204.0" width="126.0" height="86.0" rx="5" ry="5" fill="#ecfeff" stroke="#0e7490" stroke-width="1.6"/>
+<text x="817.0" y="1221.0" font-size="12" text-anchor="middle"><tspan x="817.0" font-weight="700">C44</tspan><tspan x="817.0" dy="15.0">TW [410, 530]</tspan><tspan x="817.0" dy="15.0">start 410.0</tspan><tspan x="817.0" dy="15.0">end 427.0</tspan><tspan x="817.0" dy="15.0">dur. 17.0</tspan></text>
+<line x1="880.0" y1="1247.0" x2="901.0" y2="1247.0" stroke="#0e7490" stroke-width="1.7" marker-end="url(#arrow-9)"/>
+<rect x="906.0" y="1215.0" width="100.0" height="64.0" rx="0" ry="0" fill="#ecfeff" stroke="#0e7490" stroke-width="1.6"/>
+<text x="956.0" y="1234.0" font-size="12" text-anchor="middle"><tspan x="956.0" font-weight="700">1002</tspan><tspan x="956.0" dy="15.0">return</tspan><tspan x="956.0" dy="15.0">428.7</tspan></text>
+<rect x="28.0" y="1328.0" width="2094.0" height="74.0" rx="5" ry="5" fill="#f8fafc" stroke="#c9ced6" stroke-width="1.6"/>
+<text x="40.0" y="1350.0" font-size="12" text-anchor="start"><tspan x="40.0">Open facilities: 1002, 1004, 1006, 1008, 1009, 1011, 1012, 1016, 1017, 1018; unselected candidates: 1000, 1001, 1003, 1005, 1007, 1010, 1013, 1014, 1015, 1019.</tspan><tspan x="40.0" dy="17.0">Times use nominal service durations and earliest-start propagation from a time-zero facility departure.</tspan><tspan x="40.0" dy="17.0">TW denotes the customer time window; start and end denote nominal service start and service completion.</tspan></text>
+</svg>
